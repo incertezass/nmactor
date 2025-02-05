@@ -14,7 +14,7 @@ Instalação do Nmap
 Baixar o Projeto:
 
 Clone este repositório usando o Git:
-git clone https://github.com/benfector001/nmactor.git
+git clone https://github.com/incertezass/nmactor.git
 Acessar o Diretório:
 
 Navegue até o diretório do projeto:
